@@ -1,0 +1,16 @@
+D:\ITP202003\SockInDark\bin\Debug\net5.0\SockInDark.exe
+D:\ITP202003\SockInDark\bin\Debug\net5.0\SockInDark.deps.json
+D:\ITP202003\SockInDark\bin\Debug\net5.0\SockInDark.runtimeconfig.json
+D:\ITP202003\SockInDark\bin\Debug\net5.0\SockInDark.runtimeconfig.dev.json
+D:\ITP202003\SockInDark\bin\Debug\net5.0\SockInDark.dll
+D:\ITP202003\SockInDark\bin\Debug\net5.0\ref\SockInDark.dll
+D:\ITP202003\SockInDark\bin\Debug\net5.0\SockInDark.pdb
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.csprojAssemblyReference.cache
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.AssemblyInfoInputs.cache
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.AssemblyInfo.cs
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.csproj.CoreCompileInputs.cache
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.dll
+D:\ITP202003\SockInDark\obj\Debug\net5.0\ref\SockInDark.dll
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.pdb
+D:\ITP202003\SockInDark\obj\Debug\net5.0\SockInDark.genruntimeconfig.cache
